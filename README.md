@@ -69,5 +69,12 @@ The Logistic Regression model successfully classifies SMS messages as Spam or Ha
 
 ## 👩‍💻 Author
 
-**Diya Kapadia**
-Computer Science Student
+**Diya Kapadia**  
+Computer Science Student  
+Machine Learning & Data Science Enthusiast
+
+---
+
+## ⭐ Acknowledgements
+
+This project was developed as part of the **Oasis Infobyte Data Science Internship Program (OIBSIP)** and demonstrates the practical application of Machine Learning, Data Analysis, and Data Visualization techniques for business decision-making.
